@@ -24,6 +24,7 @@
 <div align="center">
 
 ![Jia-XuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jia-XuDong&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-XuDong&layout=compact)](https://github.com/Jia-XuDong/github-readme-stats)
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Jia-XuDong&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/>
@@ -68,11 +69,7 @@
 <!-- 近期博客 -->
 # 📃 Recent Blog
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-* <a href='https://blog.sunguoqi.com/archives/hello_2023' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
+* <a href='https://github.com/Jia-XuDong' target='_blank'>待补充</a> - 2023-03-08
 <!-- END_SECTION:blog -->
 </td></tr>
 
