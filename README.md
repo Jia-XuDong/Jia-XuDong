@@ -74,7 +74,7 @@
 <tr><td>
 
 <!-- 近期博客 -->
-# 📃 Recent Blog
+# 📃 Blog
 <!-- START_SECTION:blog -->
 * <a href='https://github.com/Jia-XuDong' target='_blank'>待补充</a> - 2023-03-08
 <!-- END_SECTION:blog -->
