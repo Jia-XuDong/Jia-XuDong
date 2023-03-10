@@ -9,7 +9,7 @@
   </div>
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/GitCat.gif" />
 
 <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -30,7 +30,7 @@
 
 
 </div>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/ColorfulLine.gif" />
 <div align="center">
 
 ![Jia-XuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jia-XuDong&show_icons=true&theme=tokyonight)
@@ -50,7 +50,7 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/ColorfulLine.gif" />
 
 </div>
 
@@ -83,7 +83,7 @@
 <tr><td>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/ColorfulLine.gif" />
 
 <!--  skill badge 技能徽章 -->
 # 工作领域
@@ -94,6 +94,6 @@
 <!-- programming tool icon 编程工具图标 -->
 <div align="center" >
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/ColorfulLine.gif" />
 
 <!-- GitHub metrics 信息指标 -->
