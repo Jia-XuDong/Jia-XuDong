@@ -34,7 +34,7 @@
 <div align="center">
 
 ![Jia-XuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jia-XuDong&show_icons=true&theme=tokyonight)
-![Jia-XuDong's GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-XuDong&layout=compact&theme=tokyonight)
+[![Jia-XuDong's GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-XuDong&layout=compact&theme=dracula)](https://github.com/Jia-XuDong/github-readme-stats)
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Jia-XuDong&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/>
