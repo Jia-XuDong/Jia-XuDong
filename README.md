@@ -36,33 +36,6 @@
 ![Jia-XuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jia-XuDong&show_icons=true&theme=tokyonight)
 [![Jia-XuDong's GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-XuDong&layout=compact&theme=dracula)](https://github.com/Jia-XuDong/github-readme-stats)
 
-</div>
-<div align="center">
-  <table align="center">
-    <tr>
-      <img  src="https://github-profile-trophy.vercel.app/?username=Jia-XuDong&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jia-XuDong&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" >
-  <img width="200%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/ColorfulLine.gif" />
-</div>
-
-<div align="center" >
-  <img width="200%" src="https://github.com/Jia-XuDong/Jia-XuDong/blob/default-branch/Image/ColorfulLine.gif" />
-</div>
-
 # <center>技术栈
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,golang,linux,github,vscode,visualstudio,qt,mysql,md" />
